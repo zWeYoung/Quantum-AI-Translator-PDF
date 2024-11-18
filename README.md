@@ -8,10 +8,10 @@ Due to the use of AI, it can translate any style of PDF and produce logically st
 
 The image translation engine is GPT-4o, and the text translation engine is GPT-4o-mini.
 
-Demo web：https://profound-monstera-37b350.netlify.app/
-
-
-
+Demo web：https://profound-monstera-37b350.netlify.app/  
+  
+  
+  
 自QuantumAItranslator2.0更新
 
 由Chatgpt驱动，兼容OpenAI的第三方API。
