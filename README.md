@@ -22,7 +22,7 @@ Demo web：https://profound-monstera-37b350.netlify.app/
 
 演示网站：https://profound-monstera-37b350.netlify.app/
 
-##安装
+###安装###
 
 请确保你的系统中已安装 Node.js。可以通过以下命令检查 Node.js 是否已安装：
 bash
