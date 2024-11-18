@@ -9,9 +9,7 @@ Due to the use of AI, it can translate any style of PDF and produce logically st
 The image translation engine is GPT-4o, and the text translation engine is GPT-4o-mini.
 
 Demo web：https://profound-monstera-37b350.netlify.app/  
-  
-  
-  
+<br><br><br>
 自QuantumAItranslator2.0更新
 
 由Chatgpt驱动，兼容OpenAI的第三方API。
@@ -21,7 +19,7 @@ Demo web：https://profound-monstera-37b350.netlify.app/
 图像翻译和文本翻译引擎为GPT-4o-mini。
 
 演示网站：https://profound-monstera-37b350.netlify.app/
-
+<br><br><br>
 ###安装###
 
 请确保你的系统中已安装 Node.js。可以通过以下命令检查 Node.js 是否已安装：
@@ -47,7 +45,7 @@ pnpm install
 ```
 npm run dev
 ```
-
+<br><br><br>
 
 ![demo](https://github.com/user-attachments/assets/7a06e4f3-8cc3-4ee6-9b90-685305327bbf)
 
