@@ -8,7 +8,7 @@ Due to the use of AI, it can translate any style of PDF and produce logically st
 
 The image translation engine is GPT-4o, and the text translation engine is GPT-4o-mini.
 
-Demo web：https://profound-monstera-37b350.netlify.app/  
+
 <br><br>
 The default administrator password is `password` <br>
 It can be modified in the .env file
@@ -22,7 +22,7 @@ It can be modified in the .env file
 
 图像翻译和文本翻译引擎为GPT-4o-mini。
 
-演示网站：https://profound-monstera-37b350.netlify.app/
+
 <br><br>
 管理员密码默认为`password` <br>
 可以在.env文件修改
